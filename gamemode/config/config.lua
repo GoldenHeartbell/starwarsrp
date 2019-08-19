@@ -311,7 +311,7 @@ GM.Config.moneyModel = "models/props/cs_assault/money.mdl"
 GM.Config.lockdownsound = "npc/overwatch/cityvoice/f_confirmcivilstatus_1_spkr.wav"
 
 -- The skin DarkRP uses. Set to "default" to use the GMod default derma theme.
-GM.Config.DarkRPSkin = "DarkRP"
+GM.Config.DarkRPSkin = "StarwarsRP"
 GM.Config.currency = "$"
 GM.Config.chatCommandPrefix = "/"
 GM.Config.F1MenuHelpPage = "https://wiki.darkrp.com/index.php/Main_Page"
